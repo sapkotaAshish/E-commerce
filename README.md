@@ -23,6 +23,6 @@
 
 ******************
 Installation guide ****
--On the settings.py make sure to add you email address and password for password reset function 
--Make sure name of the app is enlisted in installed app section in the settings.py
+- On the settings.py make sure to add you email address and password for password reset function 
+- Make sure name of the app is enlisted in installed app section in the settings.py
 - Set debug = true in settings.py to customize according to your need
